@@ -1,7 +1,7 @@
 # clipper_study
 
 
-# hi 太棒了
+# test for the git authorizen
 
 
 ![](image/first1.png)
